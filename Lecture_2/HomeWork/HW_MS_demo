@@ -23,8 +23,7 @@ https://azure.microsoft.com/ru-ru/services/cognitive-services/face/#demo
 [Видео волонеторов будут отправлены по почте]
 Результаты опросов: https://raw.githubusercontent.com/ptizzza/HSE_AffectiveComputing/master/Lecture_2/HomeWork/Data
 
-1) Загрузите видео в инструменты (могут работать нестабильно)
-   https://old.emotionsdemo.com/
+1) Загрузите видео в инструмент (может работать нестабильно)
    https://facial.affectlab.io/
 2) Сравните результаты с данными опросов (волонтеров и наблюдателей)
 3) Сделайте выводы
